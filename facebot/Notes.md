@@ -1,5 +1,7 @@
-# FaceBook Posting Tips
+# Know Your Meme Collections
+- [KYM](https://knowyourmeme.com/editorials/collections/page/1)
 
+# FaceBook Posting Tips
 ## Age Group
 The average user on facebook is 24-34 [Statista](https://www.statista.com/statistics/187549/facebook-distribution-of-users-age-group-usa/). 
 So try to post memes targeting that audience.
@@ -18,4 +20,5 @@ The best times to post on Facebook are:
 - Best days to post on Facebook: Mondays through Fridays
 - Worst days to post on Facebook: Sundays
 
-
+## Minimal is better 
+Try to post 1-2 meme collections a day. People tend to not click on accounts that spam their feed. 
