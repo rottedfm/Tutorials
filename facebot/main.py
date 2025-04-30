@@ -30,4 +30,4 @@ if __name__ == "__main__":
     print_banner()
     print()
 
-    questionary.text("How many posts do you want to make?", style=terminal_blue_style).ask()
+    questionary.text("What collection do you want to post?", style=terminal_blue_style).ask()
